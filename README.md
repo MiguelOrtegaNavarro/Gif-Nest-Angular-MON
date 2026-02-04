@@ -1,5 +1,3 @@
-# GifsApp
-
 # Gif‑Nest‑Angular‑MON
 
 > 🚀 Una aplicación web divertida para buscar y explorar GIFs en tiempo real.
